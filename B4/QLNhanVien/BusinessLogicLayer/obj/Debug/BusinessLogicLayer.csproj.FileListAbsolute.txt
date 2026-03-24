@@ -1,0 +1,11 @@
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\LTQL\B4\QLNhanVien\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

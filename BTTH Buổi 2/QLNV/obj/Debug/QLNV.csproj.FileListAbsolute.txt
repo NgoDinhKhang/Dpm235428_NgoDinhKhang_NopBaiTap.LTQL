@@ -1,0 +1,11 @@
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\bin\Debug\QLNV.exe.config
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\bin\Debug\QLNV.exe
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\bin\Debug\QLNV.pdb
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\obj\Debug\QLNV.csproj.AssemblyReference.cache
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\obj\Debug\QLNV.Form1.resources
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\obj\Debug\QLNV.exe
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\obj\Debug\QLNV.pdb
+D:\DPM235419\Lập trình quản lý\Tự làm\BTTH3_Buoi2\QLNV\obj\Debug\QLNV.exe.config
