@@ -1,0 +1,12 @@
+D:\LTQL\B4\QLNhanVien\DataTransferObject\bin\Debug\DataTransferObject.dll
+D:\LTQL\B4\QLNhanVien\DataTransferObject\bin\Debug\DataTransferObject.pdb
+D:\LTQL\B4\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+D:\LTQL\B4\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+D:\LTQL\B4\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.dll
+D:\LTQL\B4\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.pdb
+Z:\B4\QLNhanVien\DataTransferObject\bin\Debug\DataTransferObject.dll
+Z:\B4\QLNhanVien\DataTransferObject\bin\Debug\DataTransferObject.pdb
+Z:\B4\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+Z:\B4\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+Z:\B4\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.dll
+Z:\B4\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.pdb
